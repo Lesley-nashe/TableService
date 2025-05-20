@@ -18,7 +18,6 @@ This is a RESTful .NET API for managing table availability and reservations in a
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
 - [Visual Studio](https://visualstudio.microsoft.com/) or VS Code
-- (Optional) [Docker](https://www.docker.com/)
 
 ---
 
@@ -26,7 +25,7 @@ This is a RESTful .NET API for managing table availability and reservations in a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/table-service-api.git
+git clone https://github.com/Lesley-nashe/TableService.git
 cd table-service-api
 
 # Restore dependencies
